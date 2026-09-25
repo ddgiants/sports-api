@@ -218,3 +218,4 @@ list. Important settings are:
 - `RUN_MIGRATIONS`: Docker-only switch for running Alembic during API startup.
 
 Do not commit `.env` or production credentials.
+
